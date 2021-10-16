@@ -64,19 +64,44 @@ aqui eu recomendaria que você desse **uma olhada** em:
 - Electronjs
 - Docker
 
-# Links:
-
+# Links/playlists:
+## cursos
 - [Udemy: www.udemy.com.br](www.udemy.com.br)
 - [Origamid: www.origamid.com](www.origamid.com)
 - [Curso em video: www.cursoemvideo.com](www.cursoemvideo.com)
-- [Curso em video no youtube: https://www.youtube.com/c/CursoemV%C3%ADdeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
-
+## playlists/canais
+### Iniciante
+- [Curso em video](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+- [Marco Bruno](https://www.youtube.com/c/MarcoBrunoDev)
+- [Código fonte tv](https://www.youtube.com/c/codigofontetv)
+- [Programadorbr](https://www.youtube.com/c/Programadorbr)
+- [Programação dinâmica](https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica)
+- [Playlist root, para iniciantes, da rocketseat](https://www.youtube.com/watch?v=bk4abNFLDE8&list=PL85ITvJ7FLognHmYKYmHPZEr47nNqLjRh)
+- [Playlist estrutura de dados do programação dinâmica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5Bb71AE5Cd_kB5rNsfU4Cp)
+### Já entende algo
+- [Rocketseat](https://www.youtube.com/c/RocketSeat)
+- [LinuxTIPS](https://www.youtube.com/c/LinuxTips)
+- [Filipe deschamps](https://www.youtube.com/c/FilipeDeschamps)
+- [Bruno Germano](https://www.youtube.com/c/Egermano)
+- [Devpleno](https://www.youtube.com/c/Devplenocom)
+- [Devon Crawford (em inglês)](https://www.youtube.com/c/DevonCrawford)
+## livestreams
+- [Marco Bruno](https://www.twitch.tv/marcobrunodev)
+- [LinuxTIPS](https://www.twitch.tv/linuxtips)
+- [Código falado](https://www.twitch.tv/codigofalado)
+- [Daniel he4rt](https://www.twitch.tv/danielhe4rt)
+- [jmarcolan](https://www.twitch.tv/jmarcolan)
 ---
 
 # Artigos:
 - [JavaScript es6 Cheatsheet from beginners to advanced](https://dev.to/anmolraj/javascript-cheatsheet-for-beginners-to-advance-4en4)
-
-
+- [Um guia para entender JavaScript hoisting](https://medium.com/devzera/um-guia-para-entender-javascript-hoisting-com-vari%C3%A1veis-usando-let-e-const-45e0a62b16e2)
+- [Javascript es2021](https://medium.com/geekculture/javascript-es2021-es12-is-set-to-make-our-lives-even-easier-af13d1528c8)
+- [Criando um serviço com nodejs](https://medium.com/desenvolvimento-com-node-js/criando-servicos-com-nodejs-432c11b5d50d)
+- [Docker: Do Zero a Marinheiro](https://medium.com/data-hackers/docker-do-zero-a-marinheiro-adf4d9087f76)
+- [Get Started With React.js](https://medium.com/easyread/how-to-get-started-with-react-js-805bf57826ad)
+- [Callbacks in JavaScript](https://medium.com/swlh/callbacks-in-javascript-6b0e39a713cd)
+- [linux filesystem](https://medium.com/swlh/linux-file-system-101-894141449257)
 ---
 
 # Treino de algoritmos e implementação/resolução de problemas:
