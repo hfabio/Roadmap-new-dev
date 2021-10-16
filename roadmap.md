@@ -102,6 +102,7 @@ aqui eu recomendaria que você desse **uma olhada** em:
 - [Get Started With React.js](https://medium.com/easyread/how-to-get-started-with-react-js-805bf57826ad)
 - [Callbacks in JavaScript](https://medium.com/swlh/callbacks-in-javascript-6b0e39a713cd)
 - [linux filesystem](https://medium.com/swlh/linux-file-system-101-894141449257)
+- [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 ---
 
 # Treino de algoritmos e implementação/resolução de problemas:
