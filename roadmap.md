@@ -1,8 +1,8 @@
 
 # Roadmap
 ## Base
-- Lógica de programação (é simples, mas é **bem necessário**)
 - Algoritmos (é simples, mas é **bem necessário**)
+- Lógica de programação (é simples, mas é **bem necessário**)
 - Estruturas de dados 
 
 **Entenda um pouco, nem que nesse primeiro momento seja para somente saber que existe, sobre as diferentes estruturas de dados como arrays/lists, objetos/dicionários, listas encadeadas, grafos, árvores**
