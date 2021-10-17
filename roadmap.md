@@ -119,3 +119,4 @@ aqui eu recomendaria que você desse **uma olhada** em:
 - [Indeed: https://www.indeed.com/](https://www.indeed.com/)
 - [StackOverflow jobs: https://stackoverflow.com/jobs](https://stackoverflow.com/jobs)
 - [Dev. VAGAS (REMOTO): https://www.facebook.com/groups/1083261215063754](https://www.facebook.com/groups/1083261215063754)
+- [Front-end challenges](https://github.com/WoMakersCode/challenges-front-end)
