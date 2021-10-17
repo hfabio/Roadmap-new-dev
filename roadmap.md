@@ -87,6 +87,7 @@ aqui eu recomendaria que você desse **uma olhada** em:
 - [Bruno Germano](https://www.youtube.com/c/Egermano)
 - [Devpleno](https://www.youtube.com/c/Devplenocom)
 - [Devon Crawford (em inglês)](https://www.youtube.com/c/DevonCrawford)
+- [Machine learning em python](https://www.youtube.com/watch?v=u8xgqvk16EA&list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
 ## livestreams
 - [Marco Bruno](https://www.twitch.tv/marcobrunodev)
 - [LinuxTIPS](https://www.twitch.tv/linuxtips)
