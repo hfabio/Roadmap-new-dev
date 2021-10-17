@@ -7,7 +7,7 @@
 - POO (Programação de Orientação a Objetos)
 - Modelagem de bancos relacionais (recomendo usar o SGBD MySQL workbench, e modelar no MySQL ou MariaDB ou SQLite)
 
-**Entenda um pouco, nem que nesse primeiro momento seja para somente saber que existe, sobre as diferentes estruturas de dados como arrays/lists, objetos/dicionários, listas encadeadas, ~~grafos, árvores~~ **
+**Entenda um pouco, nem que nesse primeiro momento seja para somente saber que existe, sobre as diferentes estruturas de dados como arrays/lists, objetos/dicionários, listas encadeadas, ~~grafos, árvores~~**
 
 ## marcação de texto, estilização e versionamento
 - HTML5
