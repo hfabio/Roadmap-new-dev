@@ -5,8 +5,9 @@
 - Lógica de programação (é simples, mas é **bem necessário**)
 - Estruturas de dados
 - POO (Programação de Orientação a Objetos)
+- Modelagem de bancos relacionais (recomendo usar o SGBD MySQL workbench, e modelar no MySQL ou MariaDB ou SQLite)
 
-**Entenda um pouco, nem que nesse primeiro momento seja para somente saber que existe, sobre as diferentes estruturas de dados como arrays/lists, objetos/dicionários, listas encadeadas, grafos, árvores**
+**Entenda um pouco, nem que nesse primeiro momento seja para somente saber que existe, sobre as diferentes estruturas de dados como arrays/lists, objetos/dicionários, listas encadeadas, ~~grafos, árvores~~ **
 
 ## marcação de texto, estilização e versionamento
 - HTML5
@@ -40,14 +41,14 @@ Outras opções:
 
 ## Bom saber, pois vai ser a base ou vai te ajudar muito
 ### Back-end
-- Restify/Express (para fazer rotas HTTP no backend em nodejs)
-- Knex/typeorm/prisma (para acesso a bancos de dados)
+- Express ou Restify (para fazer rotas HTTP no backend em nodejs)
+- Knex ou Typeorm ou Prisma (para acesso a bancos de dados)
 - JWT
 ### Front-end
 - Styled-components
 - Redux
 - Hooks (no caso do react)
-- Saber usar/lidar com localstorage/sessionstorage
+- Saber usar/lidar com localstorage e sessionstorage
 
 ### Demais conhecimentos
 Outras tecnologias que você pode/precisa ver:
@@ -104,6 +105,7 @@ aqui eu recomendaria que você desse **uma olhada** em:
 - [Callbacks in JavaScript](https://medium.com/swlh/callbacks-in-javascript-6b0e39a713cd)
 - [linux filesystem](https://medium.com/swlh/linux-file-system-101-894141449257)
 - [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
+- [Roadmap.sh - Front-end](https://roadmap.sh/frontend)
 ---
 
 # Treino de algoritmos e implementação/resolução de problemas:
