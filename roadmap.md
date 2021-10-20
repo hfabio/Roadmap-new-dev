@@ -65,6 +65,7 @@ aqui eu recomendaria que você desse **uma olhada** em:
 - React-native ou cordova
 - Electronjs
 - Docker
+- [Proxmox (Uma boa para Sysadmin)](https://www.proxmox.com/)
 
 # Links/playlists:
 ## cursos
