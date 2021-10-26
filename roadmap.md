@@ -72,6 +72,11 @@ aqui eu recomendaria que você desse **uma olhada** em:
 - [Udemy: www.udemy.com.br](www.udemy.com.br)
 - [Origamid: www.origamid.com](www.origamid.com)
 - [Curso em video: www.cursoemvideo.com](www.cursoemvideo.com)
+- [Aprenda go](https://github.com/ellenkorbes/aprendago)
+- [Descomplicando docker](https://github.com/badtuxx/DescomplicandoDocker)
+- [Descomplicando Kubernetes](https://github.com/badtuxx/DescomplicandoKubernetes)
+- [Descomplicando Helm](https://github.com/badtuxx/DescomplicandoHelm)
+
 ## playlists/canais
 ### Iniciante
 - [Curso em video](https://www.youtube.com/c/CursoemV%C3%ADdeo)
@@ -108,6 +113,13 @@ aqui eu recomendaria que você desse **uma olhada** em:
 - [linux filesystem](https://medium.com/swlh/linux-file-system-101-894141449257)
 - [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 - [Roadmap.sh - Front-end](https://roadmap.sh/frontend)
+---
+# Cheatsheets (Feitos pelo [Jefferson](https://github.com/badtuxx) da [LinuxTips](https://www.youtube.com/c/LinuxTips))
+- [Git](https://github.com/badtuxx/cheatsheet/blob/main/cheatsheet-git.pdf)
+- [Linux](https://github.com/badtuxx/cheatsheet/blob/main/cheatsheet-linux.pdf)
+- [Docker](https://github.com/badtuxx/cheatsheet/blob/main/cheatsheet-docker.pdf)
+- [Kubernetes](https://github.com/badtuxx/cheatsheet/blob/main/cheatsheet-k8s.pdf)
+- [Ansible](https://github.com/badtuxx/cheatsheet/blob/main/cheatsheet-ansible.pdf)
 ---
 
 # Treino de algoritmos e implementação/resolução de problemas:
