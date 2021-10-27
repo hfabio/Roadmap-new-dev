@@ -5,6 +5,10 @@ A ideia por trás é que seja possível aprender o suficiente para arrumar um tr
 
 [clique aqui](roadmap.md) para ir direto ao roadmap.
 
+ou
+
+[clique aqui](ferramentas.md) para ir diretamente a lista de ferramentas.
+
 Pode ser que futuramente esse roadmap se divida em 2:
 - Um para javascript
 - Um para python
