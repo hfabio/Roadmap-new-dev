@@ -25,7 +25,9 @@ marcação de texto, versionamento e tipos de arquivos para dados
 
 ----
 ## Bancada de estudos
+
 Pro python existe uma bancada de estudos "default", que é usar o `Jupyter notebook` que vem instalado no pacote do Anaconda.
+
 veja o [Python cheatsheat](https://www.pythoncheatsheet.org/) para dar uma acelerada nos aprendizados básicos
 ----
  ### Lidar com datasets
@@ -57,10 +59,17 @@ Bash
 - [Descomplicando docker](https://github.com/badtuxx/DescomplicandoDocker)
 
 ## playlists/canais
+
+Sim, você vai devorar o conteúdo do canal do [Programação dinâmica](https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica).
+Deixo aqui os agradecimentos à [@Kizzy Terra](https://github.com/kterra) e ao [@Hallison Paz](https://github.com/hallpaz) pelo excelente conteúdo.
+
 ### Iniciante
-- [Curso em video](https://www.youtube.com/c/CursoemV%C3%ADdeo)
-- [Programação dinâmica](https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica)
+- [Análise de dados em python](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR)
 - [Playlist estrutura de dados do programação dinâmica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5Bb71AE5Cd_kB5rNsfU4Cp)
+- [Dicas de Pandas | DataFrames em Python | Dados](https://www.youtube.com/watch?v=MVd1cs7TDgA&list=PL5TJqBvpXQv6SSsEgQrNwpOLTupXPuiMQ)
+- [Mãos à Obra Cientista de Dados](https://www.youtube.com/watch?v=QfYGV064mRI&list=PL5TJqBvpXQv4iEeU514g97c6ZdzlBHLj3)
+- [Carreira de Cientista de Dados](https://www.youtube.com/watch?v=FdbFRrcU4Y0&list=PL5TJqBvpXQv5UEjv4Wot5KaJ98jEFXBAK)
+- [Visualização de dados](https://www.youtube.com/watch?v=DsvDY2GaJcA&list=PL5TJqBvpXQv5o-D4PWETV27ch3CV4Vzi4)
 ### Já entende algo
 - [Devon Crawford (em inglês)](https://www.youtube.com/c/DevonCrawford)
 - [Machine learning em python](https://www.youtube.com/watch?v=u8xgqvk16EA&list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
