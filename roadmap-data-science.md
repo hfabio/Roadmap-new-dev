@@ -75,6 +75,7 @@ Deixo aqui os agradecimentos à [@Kizzy Terra](https://github.com/kterra) e ao [
 - [Machine learning em python](https://www.youtube.com/watch?v=u8xgqvk16EA&list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
 ## livestreams
 - [Téo Calvo](https://www.twitch.tv/teomewhy)
+- [Programação dinâmica](https://www.twitch.tv/pgdinamica)
 eu não conheço outras livestreams que sejam de data science, então se souber faz um `pull request` ai!
 
 ## Videos que você deveria ver
