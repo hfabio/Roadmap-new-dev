@@ -13,6 +13,6 @@ ou ainda
 
 [clique aqui](roadmap-data-science.md) para ir direto ao roadmap de data science.
 
-Pode ser que futuramente esse roadmap se divida em 2:
+Pode ser que futuramente [esse roadmap](roadmap.md) se divida em 2:
 - Um para javascript
 - Um para python
