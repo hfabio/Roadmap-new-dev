@@ -67,6 +67,9 @@ aqui eu recomendaria que você desse **uma olhada** em:
 - Docker
 - [Proxmox (Uma boa para Sysadmin)](https://www.proxmox.com/)
 
+# Assim que possível, cheque este link:
+  - [Learn X in Y minutes](https://learnxinyminutes.com/)
+
 # Links/playlists:
 ## cursos
 - [Udemy: www.udemy.com.br](www.udemy.com.br)
