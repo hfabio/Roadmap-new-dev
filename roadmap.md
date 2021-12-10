@@ -123,6 +123,7 @@ aqui eu recomendaria que você desse **uma olhada** em:
 - [Docker](https://github.com/badtuxx/cheatsheet/blob/main/cheatsheet-docker.pdf)
 - [Kubernetes](https://github.com/badtuxx/cheatsheet/blob/main/cheatsheet-k8s.pdf)
 - [Ansible](https://github.com/badtuxx/cheatsheet/blob/main/cheatsheet-ansible.pdf)
+- [Big-O](https://www.bigocheatsheet.com/)
 ---
 
 # Treino de algoritmos e implementação/resolução de problemas:
