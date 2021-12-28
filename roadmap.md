@@ -116,6 +116,7 @@ aqui eu recomendaria que você desse **uma olhada** em:
 - [linux filesystem](https://medium.com/swlh/linux-file-system-101-894141449257)
 - [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 - [Roadmap.sh - Front-end](https://roadmap.sh/frontend)
+- [Learn in 1 Hour: Design Patterns](https://blog.jetbrains.com/education/2021/12/12/learn-in-1-hour-design-patterns/)
 ---
 # Cheatsheets (Feitos pelo [Jefferson](https://github.com/badtuxx) da [LinuxTips](https://www.youtube.com/c/LinuxTips))
 - [Git](https://github.com/badtuxx/cheatsheet/blob/main/cheatsheet-git.pdf)
