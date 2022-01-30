@@ -30,7 +30,7 @@ Outras opções:
 - Java
 ### Front-end
 Recomendo
-- ReactJS
+- ReactJS ([considere ler esse roadmap](https://www.freecodecamp.org/news/react-fundamentals-for-beginners/))
 
 Outras opções:
 - Vue
