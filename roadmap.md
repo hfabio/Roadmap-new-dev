@@ -1,5 +1,7 @@
 
 # Roadmap
+### Passo 0
+antes de mais nada você deveria assistir a esse vídeo [aqui](https://www.youtube.com/watch?v=HEaIsKm-pao) do [Fabio Akita](https://github.com/akitaonrails).
 ## Base
 - Algoritmos (é simples, mas é **bem necessário**)
 - Lógica de programação (é simples, mas é **bem necessário**)
@@ -95,6 +97,7 @@ aqui eu recomendaria que você desse **uma olhada** em:
 - [Filipe deschamps](https://www.youtube.com/c/FilipeDeschamps)
 - [Bruno Germano](https://www.youtube.com/c/Egermano)
 - [Devpleno](https://www.youtube.com/c/Devplenocom)
+- [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
 - [Devon Crawford (em inglês)](https://www.youtube.com/c/DevonCrawford)
 - [Machine learning em python](https://www.youtube.com/watch?v=u8xgqvk16EA&list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
 ## livestreams
