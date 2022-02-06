@@ -24,7 +24,7 @@ antes de mais nada você deveria assistir a esse vídeo [aqui](https://www.youtu
 
 ### Back-end
 Recomendo:
-- NodeJS
+- NodeJS ([clique aqui para ver o vídeo "COMEÇANDO COM NODE.JS EM 2022" da rocketseat](https://www.youtube.com/watch?v=fm4_EuCsQwghttps://www.youtube.com/watch?v=fm4_EuCsQwg))
 
 Outras opções:
 - Python
@@ -32,7 +32,8 @@ Outras opções:
 - Java
 ### Front-end
 Recomendo
-- ReactJS ([considere ler esse roadmap](https://www.freecodecamp.org/news/react-fundamentals-for-beginners/))
+- ReactJS ([considere ler esse roadmap](https://www.freecodecamp.org/news/react-fundamentals-for-beginners/) e assistir [esse vídeo "COMEÇANDO NO REACT.JS EM 2022
+" da rocketseat](https://www.youtube.com/watch?v=pDbcC-xSat4))
 
 Outras opções:
 - Vue
