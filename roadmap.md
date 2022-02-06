@@ -15,6 +15,7 @@ antes de mais nada você deveria assistir a esse vídeo [aqui](https://www.youtu
 - HTML5
 - CSS3
 - git
+**Nota: aprenda o que é um JSON e como os dados são organizados, vai ser MUITO útil você saber**
 
 ## Programação de fato + frameworks
 - JavaScript (Foco em aprender a partir da versão do javascript ES6 - EcmaScript 6)
