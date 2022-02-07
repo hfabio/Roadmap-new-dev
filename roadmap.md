@@ -1,7 +1,7 @@
 
 # Roadmap
 ### Passo 0
-Antes de mais nada você deveria assistir a esse vídeo [aqui](https://www.youtube.com/watch?v=HEaIsKm-pao) do [Fabio Akita](https://github.com/akitaonrails).
+Antes de mais nada você deveria assistir a esse vídeo [aqui](https://www.youtube.com/watch?v=HEaIsKm-pao) do [Fabio Akita](https://github.com/akitaonrails).  
 E também precisa assistir [essa palestra](https://www.youtube.com/watch?v=G8Fa8oVnakM) do [@guisouza](https://github.com/guisouza), porque assim você vai saber com o que você pode estar lidando ao programar!
 ## Base
 - Algoritmos (é simples, mas é **bem necessário**)
