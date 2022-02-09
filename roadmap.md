@@ -77,9 +77,9 @@ aqui eu recomendaria que você desse **uma olhada** em:
 
 # Links/playlists:
 ## cursos
-- [Udemy: www.udemy.com.br](www.udemy.com.br)
-- [Origamid: www.origamid.com](www.origamid.com)
-- [Curso em video: www.cursoemvideo.com](www.cursoemvideo.com)
+- [Udemy: www.udemy.com.br](https://www.udemy.com.br)
+- [Origamid: www.origamid.com](https://www.origamid.com)
+- [Curso em video: www.cursoemvideo.com](https://www.cursoemvideo.com)
 - [Aprenda go](https://github.com/ellenkorbes/aprendago)
 - [Descomplicando docker](https://github.com/badtuxx/DescomplicandoDocker)
 - [Descomplicando Kubernetes](https://github.com/badtuxx/DescomplicandoKubernetes)
@@ -135,8 +135,8 @@ aqui eu recomendaria que você desse **uma olhada** em:
 
 # Treino de algoritmos e implementação/resolução de problemas:
 
-- [CodeWars: www.codewars.com](www.codewars.com)
-- [URI Judge: www.urionlinejudge.com.br](www.urionlinejudge.com.br)
+- [CodeWars: www.codewars.com](https://www.codewars.com)
+- [URI Judge: www.urionlinejudge.com.br](https://www.urionlinejudge.com.br)
 
 ---
 
