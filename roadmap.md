@@ -6,7 +6,7 @@ E também precisa assistir [essa palestra](https://www.youtube.com/watch?v=G8Fa8
 Deixe também como "livro de cabeceira" [este repositório](https://github.com/arthurspk/guiadevbrasil#-ides-e-editores-de-c%C3%B3digo) do [@arthurspk](https://github.com/arthurspk), pois tem bastante conteúdo diverso que vai te ajudar com consultas!
 ## Base
 - Algoritmos (é simples, mas é **bem necessário**)
-- Lógica de programação (é simples, mas é **bem necessário**)
+- Lógica de programação (é simples, mas é **bem necessário**, confira [essa playlist](https://www.youtube.com/playlist?list=PLAIgeRdMaoGVrASBxWcbAurQMzXJMArkg))
 - Estruturas de dados
 - POO (Programação de Orientação a Objetos)
 - Modelagem de bancos relacionais (recomendo usar o SGBD MySQL workbench, e modelar no MySQL ou MariaDB ou SQLite)
