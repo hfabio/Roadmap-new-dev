@@ -4,6 +4,7 @@
 Antes de mais nada você deveria assistir a esse vídeo [aqui](https://www.youtube.com/watch?v=HEaIsKm-pao) do [Fabio Akita](https://github.com/akitaonrails).  
 E também precisa assistir [essa palestra](https://www.youtube.com/watch?v=G8Fa8oVnakM) do [@guisouza](https://github.com/guisouza), porque assim você vai saber com o que você pode estar lidando ao programar!  
 Deixe também como "livro de cabeceira" [este repositório](https://github.com/arthurspk/guiadevbrasil#-ides-e-editores-de-c%C3%B3digo) do [@arthurspk](https://github.com/arthurspk), pois tem bastante conteúdo diverso que vai te ajudar com consultas!
+E claro, a bíblia para consultas, o [DevDocs](https://devdocs.io/).
 ## Base
 - Algoritmos (é simples, mas é **bem necessário**)
 - Lógica de programação (é simples, mas é **bem necessário**, confira [essa playlist](https://www.youtube.com/playlist?list=PLAIgeRdMaoGVrASBxWcbAurQMzXJMArkg))
