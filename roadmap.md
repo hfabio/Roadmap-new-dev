@@ -144,6 +144,7 @@ aqui eu recomendaria que você desse **uma olhada** em:
 
 # Jobs
 
+- [Vagas de estágio ou para Juniors](https://github.com/alinebastos/vagas-junior-estagio)
 - [Vanhack: https://vanhack.com/](https://vanhack.com/)
 - [FrontEndBR vagas: https://github.com/frontendbr/vagas](https://github.com/frontendbr/vagas)
 - [Indeed: https://www.indeed.com/](https://www.indeed.com/)
