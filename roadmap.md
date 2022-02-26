@@ -11,6 +11,7 @@ E claro, a bíblia para consultas, o [DevDocs](https://devdocs.io/).
 - Estruturas de dados
 - POO (Programação de Orientação a Objetos)
 - Modelagem de bancos relacionais (recomendo usar o SGBD MySQL workbench, e modelar no MySQL ou MariaDB ou SQLite)
+- Assista [essa aula](https://www.youtube.com/watch?v=Ma3M7Pdd7HI&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&index=27) sobre sistemas numéricos
 
 **Entenda um pouco, nem que nesse primeiro momento seja para somente saber que existe, sobre as diferentes estruturas de dados como arrays/lists, objetos/dicionários, listas encadeadas, ~~grafos, árvores~~**
 
