@@ -36,6 +36,7 @@ Outras opções:
 - PHP
 - Java
 ### Front-end
+Atenção, você vai precisar dar uma olhada no [vitejs](https://vitejs.dev/guide/), pois os frameworks de front-end estão migrando para essa plataforma. (invés de usar um create-react-app da vida)
 Recomendo
 - ReactJS ([considere ler esse roadmap](https://www.freecodecamp.org/news/react-fundamentals-for-beginners/) e assistir [esse vídeo "COMEÇANDO NO REACT.JS EM 2022
 " da rocketseat](https://www.youtube.com/watch?v=pDbcC-xSat4))
