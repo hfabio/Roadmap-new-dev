@@ -39,7 +39,7 @@ Outras opções:
 Atenção, você vai precisar dar uma olhada no [vitejs](https://vitejs.dev/guide/), pois os frameworks de front-end estão migrando para essa plataforma. (invés de usar um create-react-app da vida)
 Recomendo
 - ReactJS ([considere ler esse roadmap](https://www.freecodecamp.org/news/react-fundamentals-for-beginners/) e assistir [esse vídeo "COMEÇANDO NO REACT.JS EM 2022
-" da rocketseat](https://www.youtube.com/watch?v=pDbcC-xSat4))
+" da rocketseat](https://www.youtube.com/watch?v=pDbcC-xSat4)). Considere ver também o artigo `8 Best React Courses 2022` na sessão de artigos
 
 Outras opções:
 - Vue
@@ -116,6 +116,7 @@ aqui eu recomendaria que você desse **uma olhada** em:
 ---
 
 # Artigos:
+- [8 Best React Courses 2022](https://cult.honeypot.io/reads/8-best-react-courses-2022/)
 - [JavaScript es6 Cheatsheet from beginners to advanced](https://dev.to/anmolraj/javascript-cheatsheet-for-beginners-to-advance-4en4)
 - [Um guia para entender JavaScript hoisting](https://medium.com/devzera/um-guia-para-entender-javascript-hoisting-com-vari%C3%A1veis-usando-let-e-const-45e0a62b16e2)
 - [Javascript es2021](https://medium.com/geekculture/javascript-es2021-es12-is-set-to-make-our-lives-even-easier-af13d1528c8)
