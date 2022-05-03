@@ -73,7 +73,7 @@ A partir daqui fica em aberto, porque o céu é o limite, você já ta preparado
 aqui eu recomendaria que você desse **uma olhada** em:
 - React-native ou cordova
 - Electronjs
-- Docker
+- Docker ([dá uma lida nesse artigo](https://python.plainenglish.io/docker-explained-to-a-5-year-old-ffc4e6197fe0))
 - [Proxmox (Uma boa para Sysadmin)](https://www.proxmox.com/)
 
 # Assim que possível, cheque este link:
