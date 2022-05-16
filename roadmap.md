@@ -23,6 +23,9 @@ E claro, a bíblia para consultas, o [DevDocs](https://devdocs.io/).
 
 ## Programação de fato + frameworks
 - JavaScript (Foco em aprender a partir da versão do javascript ES6 - EcmaScript 6)
+  - Hoisting [leia esse artigo](https://webdriphashnode.hashnode.dev/hoisting-in-javascript-explained-visually)
+  - Event loop (call stack)
+  - globalThis / this
 - Aprender um framework CSS para agilizar a estilização (**Bootstrap versão 4**, ou tailwind, ou materialize, etc.)
 
 ---
