@@ -22,7 +22,7 @@ E claro, a bíblia para consultas, o [DevDocs](https://devdocs.io/).
 **Nota: aprenda o que é um JSON e como os dados são organizados, vai ser MUITO útil você saber**
 
 ## Programação de fato + frameworks
-- JavaScript (Foco em aprender a partir da versão do javascript ES6 - EcmaScript 6)
+- JavaScript (Foco em aprender a partir da versão do javascript ES6 - EcmaScript 6, [deguste esse site](https://javascript.info/))
   - Hoisting [leia esse artigo](https://webdriphashnode.hashnode.dev/hoisting-in-javascript-explained-visually)
   - Event loop (call stack)
   - globalThis / this
