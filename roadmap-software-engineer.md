@@ -24,7 +24,7 @@ E claro, a bíblia para consultas, o [DevDocs](https://devdocs.io/).
 ## Programação de fato + frameworks
 - JavaScript (Foco em aprender a partir da versão do javascript ES6 - EcmaScript 6, [deguste esse site](https://javascript.info/))
   - Hoisting [leia esse artigo](https://webdriphashnode.hashnode.dev/hoisting-in-javascript-explained-visually)
-  - Event loop (call stack)
+  - Event loop (call stack) [leia esse artigo](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
   - globalThis / this
 - Aprender um framework CSS para agilizar a estilização (**Bootstrap versão 4**, ou tailwind, ou materialize, etc.)
 
@@ -131,6 +131,7 @@ aqui eu recomendaria que você desse **uma olhada** em:
 - [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 - [Roadmap.sh - Front-end](https://roadmap.sh/frontend)
 - [Learn in 1 Hour: Design Patterns](https://blog.jetbrains.com/education/2021/12/12/learn-in-1-hour-design-patterns/)
+- [✨♻️ JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 ---
 # Cheatsheets (Feitos pelo [Jefferson](https://github.com/badtuxx) da [LinuxTips](https://www.youtube.com/c/LinuxTips))
 - [Git](https://github.com/badtuxx/cheatsheet/blob/main/cheatsheet-git.pdf)
