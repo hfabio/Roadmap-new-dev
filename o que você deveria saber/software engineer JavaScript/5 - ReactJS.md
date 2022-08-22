@@ -5,6 +5,7 @@
 - conceito de componentização
 - JSX
 - componente funcional
+- props
 - estado, gestão de estado e context
 ## core - você DEVE saber - avançado
 - Hooks
