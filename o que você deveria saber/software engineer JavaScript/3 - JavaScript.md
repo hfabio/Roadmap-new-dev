@@ -9,6 +9,7 @@
 - Laços de repetição (For / ForEach / For in / For of)
 - funções (e arrow functions)
 - [DOM api](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model/Introduction)
+- assista [esse vídeo](https://www.youtube.com/watch?v=37SwqREHRGI)
 ## core - você DEVE saber - avançado
 - High order functions (funções dos arrays como: Map / Filter / Find / Reduce)
 - Promises (async e await, além da promise padrão com .then e .catch)
