@@ -26,6 +26,7 @@ E claro, a bíblia para consultas, o [DevDocs](https://devdocs.io/).
   - Hoisting [leia esse artigo](https://webdriphashnode.hashnode.dev/hoisting-in-javascript-explained-visually)
   - Event loop (call stack) [leia esse artigo](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
   - globalThis / this
+  - assista [esse vídeo](https://www.youtube.com/watch?v=37SwqREHRGI)
 - Aprender um framework CSS para agilizar a estilização (**Bootstrap versão 4**, ou tailwind, ou materialize, etc.)
 
 ---
