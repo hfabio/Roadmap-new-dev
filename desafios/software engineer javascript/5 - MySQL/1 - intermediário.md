@@ -1,0 +1,1 @@
+# Desafio intermediário de MySQL (5.7)
