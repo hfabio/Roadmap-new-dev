@@ -88,7 +88,7 @@ eu não conheço outras livestreams que sejam de data science, então se souber 
 - [Docker: Do Zero a Marinheiro](https://medium.com/data-hackers/docker-do-zero-a-marinheiro-adf4d9087f76)
 - [linux filesystem](https://medium.com/swlh/linux-file-system-101-894141449257)
 - [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
-- [Roadmap.sh - Front-end](https://roadmap.sh/frontend)
+- [Roadmap.sh - AI e data science](https://roadmap.sh/ai-data-scientist)
 ---
 # Cheatsheets (Feitos pelo [Jefferson](https://github.com/badtuxx) da [LinuxTips](https://www.youtube.com/c/LinuxTips))
 - [Git](https://github.com/badtuxx/cheatsheet/blob/main/cheatsheet-git.pdf)
