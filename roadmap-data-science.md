@@ -4,7 +4,7 @@
 - Algoritmos (é simples, mas é bem necessário)
 - Lógica de programação (é simples, mas é bem necessário)
 - Estruturas de dados
-- POO (Programação de Orientação a Objetos)
+- POO (Programação de Orientação a Objetos - não é requisito, mas vai te ajudar a entender como representar o mundo de maneira computacional)
 - Modelagem de bancos relacionais (recomendo usar o SGBD MySQL workbench, e modelar no MySQL ou MariaDB ou SQLite)
 **entenda um pouco, nem que nesse primeiro momento seja para somente saber que existe, sobre as diferentes estruturas de dados como arrays/lists, objetos/dicionários, listas encadeadas, grafos, árvores**
 ----
