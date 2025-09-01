@@ -71,6 +71,7 @@
 - puppeteer
 - sentry
 - datadog
+- grafana + loki
 
 ## frontend  
 - vite
