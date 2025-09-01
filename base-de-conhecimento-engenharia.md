@@ -1,113 +1,135 @@
-# Base de conhecimento para um engenheiro de software sênior  
-**falar inglês é imprescindível**  
+# Base de conhecimento para um engenheiro de software sênior
+
+**falar inglês é imprescindível**
+
 ## Índice:
-- [ferramentas](#ferramentas)
-- [linguagens e marcação de texto](#linguagens-e-marcação-de-texto)
-- [db](#db)
-- [code-style](#code-style)
-- [backend](#backend)
-- [frontend](#frontend)
-- [Soft skills](#soft-skills)
-- [design patterns](##design-patterns)
+
+* [ferramentas](#ferramentas)
+* [linguagens e marcação de texto](#linguagens-e-marcação-de-texto)
+* [db](#db)
+* [code-style](#code-style)
+* [backend](#backend)
+* [frontend](#frontend)
+* [Soft skills](#soft-skills)
+* [design patterns](##design-patterns)
 
 ## ferramentas
-- Jira (ou trello, ou github projects, ou linear etc, **aprenda sobre scrum + kanban**)
-- vscode (ou cursor)
-- Postman (ou insomnia, ou thunderclient, mas alguma forma de **fazer requisições HTTP localmente e testar seus apps**)
-- DBMS (escolha um, mas **recomendo o workbench**):
-  - mysql workbench
-  - dbeaver
-  - sequel ace
 
-## linguagens e marcação de texto  
-- javascript (e typescript obviamente)
-- python (é sempre útil, tanto para backend quanto para scripts auxiliares)
-- golang (opcional, mas é interessante assim como o rust)
-- bash
-- sql
-- json
-- yaml (obrigatório em jobs do github actions, arquivos do serverless etc)
-- toml (opcional)
-- MarkDown
-- HTML5
-- CSS3
+* Jira (ou trello, ou github projects, ou linear etc, **aprenda sobre scrum + kanban**)
+* vscode (ou cursor)
+* Postman (ou insomnia, ou thunderclient, mas alguma forma de **fazer requisições HTTP localmente e testar seus apps**)
+* DBMS (escolha um, mas **recomendo o workbench**):
 
-## db  
-- redis
-- mysql 8 OU postgres 16
-- dynamoDB (opcional)
+  * mysql workbench
+  * dbeaver
+  * sequel ace
 
-## code-style  
-- prettier
-- eslint
-- editorconfig
-- husky (opcional, mas é bom aprender)
+## linguagens e marcação de texto
 
-## devops  
-- containerização:
-  - docker (aprenda sobre alpine linux, distroless, build em múltiplas etapas)
-  - docker-compose
-- github-actions
-- github-pages (opcional, dificil você utilizar no dia-a-dia)
-- aws:
-  - lambda (leia sobre batch também)
-  - s3
-  - ecs
-  - sqs
+* javascript (e typescript obviamente)
+* python (é sempre útil, tanto para backend quanto para scripts auxiliares)
+* golang (opcional, mas é interessante assim como o rust)
+* bash
+* sql
+* json
+* yaml (obrigatório em jobs do github actions, arquivos do serverless etc)
+* toml (opcional)
+* MarkDown
+* HTML5
+* CSS3
 
-## backend  
-- nodejs
-- express
-- jwt
-- node:crypto
-- mysql2
-- knex (ou outro ORM/querybuilder como prisma, ou sequelize etc)
-- para testes:
-  - jest 
-  - node test suite
-  - cypress
-  - fakerjs
-- swagger
-- puppeteer
-- sentry
-- datadog
+## db
 
-## frontend  
-- vite
-- reactjs
-- redux
-- i18n
-- jest (pro frontend com react-testing-library)
-- sass
-- storybook
-- styled-components
+* redis
+* mysql 8 OU postgres 16
+* dynamoDB (opcional)
+* medir performance de queries e obter métricas pelo DBMS (analisar DML vs DDL, subqueries vs joins, problema cartesiano, e o famoso problema N+1 — usar explain/EXPLAIN ANALYZE, planos de execução, índices, estatísticas e ferramentas internas do DBMS)
 
-## Programming skills  
-- multithread / child process / fork / cluster
-- async programming (async/await, promises)
-- leetcode (utilize uma plataforma para treinar algoritmos, tipo leetcode/codewars/codesignal/hackerrank
+## code-style
 
-## hard skills  
-- D.R.Y
-- SOLID
-- clean code
-- clean architecture
-- system design
-- event loop
-- hoisting
-- arquitetura de computadores
-- notação assintótica (e complexidade de algoritmos, da uma lida [aqui](https://learnxinyminutes.com/pt-br/asymptotic-notation/))
-- sistemas operacionais (entenda linha de comando e como funcionam coisas como: sistema de arquivo, scheduler, memória, gestão de recursos etc, e sim, eu recomendo linux.)
+* prettier
+* eslint
+* editorconfig
+* husky (opcional, mas é bom aprender)
 
-## Design patterns  
+## devops
+
+* containerização:
+
+  * docker (aprenda sobre alpine linux, distroless, build em múltiplas etapas)
+  * docker-compose
+* github-actions
+* github-pages (opcional, dificil você utilizar no dia-a-dia)
+* aws:
+
+  * lambda (leia sobre batch também)
+  * s3
+  * ecs
+  * sqs
+* grafana + loki
+* noção de balanceamento e múltiplas instâncias (load balancing, horizontal scaling, health checks, auto-scaling)
+* conhecimentos em DNS, Reverse Proxy e gateway (resolução de nomes, TTL, CNAME/A records, Nginx/Traefik/HAProxy como reverse proxies e API gateways)
+
+## backend
+
+* nodejs
+* express
+* jwt
+* node\:crypto
+* mysql2
+* knex (ou outro ORM/querybuilder como prisma, ou sequelize etc)
+* para testes:
+
+  * jest
+  * node test suite
+  * cypress
+  * fakerjs
+* swagger
+* puppeteer
+* sentry
+* datadog
+
+## frontend
+
+* vite
+* reactjs
+* redux
+* i18n
+* jest (pro frontend com react-testing-library)
+* sass
+* storybook
+* styled-components
+
+## Programming skills
+
+* multithread / child process / fork / cluster
+* async programming (async/await, promises)
+* leetcode (utilize uma plataforma para treinar algoritmos, tipo leetcode/codewars/codesignal/hackerrank
+
+## hard skills
+
+* D.R.Y
+* SOLID
+* clean code
+* clean architecture
+* system design
+* event loop
+* hoisting
+* arquitetura de computadores
+* notação assintótica (e complexidade de algoritmos, da uma lida [aqui](https://learnxinyminutes.com/pt-br/asymptotic-notation/))
+* sistemas operacionais (entenda linha de comando e como funcionam coisas como: sistema de arquivo, scheduler, memória, gestão de recursos etc, e sim, eu recomendo linux.)
+
+## Design patterns
+
 também conhecido como (padrão de projetos)
 leia sobre eles, [aqui](https://refactoring.guru/pt-br/design-patterns) tem uma boa referência
-- singleton
-- decorator
-- factory
-- adapter
-- facade
-- repository
-- dependency injection
-- pubsub
-- CQRS
+
+* singleton
+* decorator
+* factory
+* adapter
+* facade
+* repository
+* dependency injection
+* pubsub
+* CQRS
