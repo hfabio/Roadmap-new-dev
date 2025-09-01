@@ -98,6 +98,9 @@
 - arquitetura de computadores
 - notação assintótica (e complexidade de algoritmos, da uma lida [aqui](https://learnxinyminutes.com/pt-br/asymptotic-notation/))
 - sistemas operacionais (entenda linha de comando e como funcionam coisas como: sistema de arquivo, scheduler, memória, gestão de recursos etc, e sim, eu recomendo linux.)
+- medir performance de queries e obter métricas pelo DBMS (analisar DML vs DDL, subqueries vs joins, problema cartesiano, problema N+1, planos de execução, índices, estatísticas)
+- noção de balanceamento e múltiplas instâncias (load balancing, horizontal scaling, health checks, auto-scaling)
+- conhecimentos em DNS, Reverse Proxy e gateway (resolução de nomes, TTL, CNAME/A records, Nginx/Traefik/HAProxy como reverse proxies e API gateways)
 
 ## Design patterns  
 também conhecido como (padrão de projetos)
