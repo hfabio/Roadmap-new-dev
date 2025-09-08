@@ -19,7 +19,7 @@ E claro, a bíblia para consultas, o [DevDocs](https://devdocs.io/).
 ## marcação de texto, estilização e versionamento
 - HTML5
 - CSS3
-- git
+- git (veja [esse video](https://www.youtube.com/watch?v=yehiFrxfuUc))
 **Nota: aprenda o que é um JSON e como os dados são organizados, vai ser MUITO útil você saber**
 
 ## Programação de fato + frameworks
