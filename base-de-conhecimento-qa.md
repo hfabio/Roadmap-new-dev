@@ -63,6 +63,7 @@
 - Extensões úteis para QA (ex: gravação de tela)
 - Ferramentas para gestão de bugs ( Exemplo: Excel / Qase )
 - Reactotron
+- devTools
 ---
 
 ## 🧾 Linguagens e Marcação de Texto
